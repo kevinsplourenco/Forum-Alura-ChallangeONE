@@ -39,7 +39,7 @@ CREATE DATABASE forum;
 ```
 - Quando a aplicação for iniciada, ela irá criar automaticamente o usuário e senha.
 ```
-user= igor@alura.com  e password= 123456
+user= seunome@alura.com  e password= adm123
 ```
 - Você deve utilizar esses dados na função Post/login, que irá gerar um Bearer Token JWT para ser utilizado como autorização🔓 nas outras funções.
 
